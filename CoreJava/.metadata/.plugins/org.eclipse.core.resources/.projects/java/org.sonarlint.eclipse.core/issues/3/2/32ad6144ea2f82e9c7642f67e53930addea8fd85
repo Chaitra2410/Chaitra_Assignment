@@ -1,0 +1,25 @@
+
+i	java:S106F"9Replace this use of System.out or System.err by a logger.(Å•ÿÿÿÿÿHÛRMAJORZ
+CODE_SMELL
+f
+java:S4973I"<Strings and Boxed types should be compared using "equals()".(İğğìûÿÿÿÿHèRMAJORZBUG
+f
+java:S4973I"<Strings and Boxed types should be compared using "equals()".(İğğìûÿÿÿÿHíRMAJORZBUG
+u
+java:S3973E"GUse indentation to denote the code conditionally executed by this "if".(¼åì[HöRCRITICALZ
+CODE_SMELL
+f
+java:S4973L"<Strings and Boxed types should be compared using "equals()".(Ö•…—ÿÿÿÿÿHòRMAJORZBUG
+d	java:S106H"9Replace this use of System.out or System.err by a logger.(ËÌìHÜRMAJORZ
+CODE_SMELL
+Š
+java:S2293;"YReplace the type specification in this constructor call with the diamond operator ("<>").(Æ×¦ĞûÿÿÿÿHŞRMINORZ
+CODE_SMELL
+y
+java:S1192="JDefine a constant instead of duplicating this literal "Completed" 3 times.(¡†Ù‹HàRCRITICALZ
+CODE_SMELL
+i	java:S106N"9Replace this use of System.out or System.err by a logger.(œªˆÜøÿÿÿÿHİRMAJORZ
+CODE_SMELL
+}
+java:S1192<"IDefine a constant instead of duplicating this literal "Accepted" 3 times.(Ÿ†é™şÿÿÿÿHäRCRITICALZ
+CODE_SMELL

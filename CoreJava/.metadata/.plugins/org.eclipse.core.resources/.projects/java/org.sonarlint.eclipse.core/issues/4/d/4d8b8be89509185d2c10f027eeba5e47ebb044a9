@@ -1,0 +1,24 @@
+
+k	java:S106@"9Replace this use of System.out or System.err by a logger.(ì„¦Ô8‘»ˆ¥™0Hœ
+RMAJORZ
+CODE_SMELL
+„	java:S101b"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(¤³úûÿÿÿÿ8Â“ı¤™0H˜
+RMINORZ
+CODE_SMELL
+k	java:S106:"9Replace this use of System.out or System.err by a logger.(¼¡¨ò8‹ ‹¥™0HŸ
+RMAJORZ
+CODE_SMELL
+‘
+java:S2293M"YReplace the type specification in this constructor call with the diamond operator ("<>").(•ğ™±ÿÿÿÿÿ8‘»ˆ¥™0H
+RMINORZ
+CODE_SMELL
+„	java:S101p"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(ÎÎòÌûÿÿÿÿ8Â“ı¤™0H™
+RMINORZ
+CODE_SMELL
+k	java:S106W"9Replace this use of System.out or System.err by a logger.(ì„¦Ô8ç—™¥™0H—
+RMAJORZ
+CODE_SMELL
+‘
+java:S2293C"YReplace the type specification in this constructor call with the diamond operator ("<>").(‰ĞÇªıÿÿÿÿ8ËÒä¤™0Hš
+RMINORZ
+CODE_SMELL

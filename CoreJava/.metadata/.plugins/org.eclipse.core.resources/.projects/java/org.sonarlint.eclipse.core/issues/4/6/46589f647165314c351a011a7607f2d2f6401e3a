@@ -1,0 +1,16 @@
+
+|
+java:S3973"HUse indentation to denote the code conditionally executed by this "for".(µ†À¤øÿÿÿÿH¦
+RCRITICALZ
+CODE_SMELL
+€	java:S116
+"URename this field "Department" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ì“™”H¨
+RMINORZ
+CODE_SMELL
+d	java:S106"9Replace this use of System.out or System.err by a logger.(«’ÌÖH©
+RMAJORZ
+CODE_SMELL
+…
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(þÁÇåHª
+RMINORZ
+CODE_SMELL

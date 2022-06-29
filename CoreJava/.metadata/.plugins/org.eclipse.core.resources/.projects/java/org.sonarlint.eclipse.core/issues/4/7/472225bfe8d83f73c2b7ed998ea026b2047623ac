@@ -1,0 +1,46 @@
+
+p	java:S106!"9Replace this use of System.out or System.err by a logger.(åÔåøÿÿÿÿ8ºÍ´š0H†
+RMAJORZ
+CODE_SMELL
+‚	java:S116	"PRename this field "Email" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(áï»‚8ºÍ´š0H‡
+RMINORZ
+CODE_SMELL
+k	java:S106"9Replace this use of System.out or System.err by a logger.(‰°Ì½8ºÍ´š0Hˆ
+RMAJORZ
+CODE_SMELL
+”	java:S1156"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(¾İµùúÿÿÿÿ8ºÍ´š0H‰
+RCRITICALZ
+CODE_SMELL
+T
+java:S11166"Remove this empty statement.(¾İµùúÿÿÿÿ8ºÍ´š0HŠ
+RMINORZ
+CODE_SMELL
+†	java:S116"ORename this field "Name" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(É¬­Áøÿÿÿÿ8ºÍ´š0HŒ
+RMINORZ
+CODE_SMELL
+p	java:S106"9Replace this use of System.out or System.err by a logger.(ï•ïšûÿÿÿÿ8ºÍ´š0H
+RMAJORZ
+CODE_SMELL
+p	java:S106'"9Replace this use of System.out or System.err by a logger.(òÕ•óşÿÿÿÿ8ºÍ´š0H
+RMAJORZ
+CODE_SMELL
+Œ
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(Š‹´Ş8ºÍ´š0H
+RMINORZ
+CODE_SMELL
+k	java:S106#"9Replace this use of System.out or System.err by a logger.(‰àëÃ8ºÍ´š0H‘
+RMAJORZ
+CODE_SMELL
+ƒ
+java:S3973&"HUse indentation to denote the code conditionally executed by this "for".(ªë‘‹şÿÿÿÿ8ºÍ´š0H’
+RCRITICALZ
+CODE_SMELL
+	java:S116"VRename this field "PhoneNumber" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ğ•ˆËûÿÿÿÿ8ºÍ´š0H”
+RMINORZ
+CODE_SMELL
+”	java:S1156"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(¾İµùúÿÿÿÿ8ºÍ´š0H•
+RCRITICALZ
+CODE_SMELL
+p	java:S106%"9Replace this use of System.out or System.err by a logger.(˜‹êşÿÿÿÿ8ºÍ´š0H–
+RMAJORZ
+CODE_SMELL

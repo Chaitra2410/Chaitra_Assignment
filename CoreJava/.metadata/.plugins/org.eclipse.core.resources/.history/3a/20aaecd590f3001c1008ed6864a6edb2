@@ -1,0 +1,17 @@
+package com.cg.collection;
+
+public class Contact {
+
+	long phoneNumber;
+	String name;
+	String email;
+	enum gender{}
+	
+	
+	
+	
+	public static void main(String[] args) {
+	
+	}
+
+}

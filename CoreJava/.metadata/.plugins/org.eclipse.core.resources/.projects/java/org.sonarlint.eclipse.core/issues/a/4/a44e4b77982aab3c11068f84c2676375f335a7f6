@@ -1,0 +1,12 @@
+
+K
+java:S1659
+"Declare "t" on a separate line.(³ΥH–RMINORZ
+CODE_SMELL
+i	java:S106"9Replace this use of System.out or System.err by a logger.(ƒΥ»ΏωÿÿÿÿHRMAJORZ
+CODE_SMELL
+d	java:S106"9Replace this use of System.out or System.err by a logger.(τώ²υH™RMAJORZ
+CODE_SMELL
+}
+java:S3973"IUse indentation to denote the code conditionally executed by this "else".(„¶αμψÿÿÿÿHRCRITICALZ
+CODE_SMELL

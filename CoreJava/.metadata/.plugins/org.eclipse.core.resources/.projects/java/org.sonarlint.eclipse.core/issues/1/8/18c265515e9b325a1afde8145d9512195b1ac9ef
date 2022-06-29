@@ -1,0 +1,40 @@
+
+U
+java:S2140")Use "java.util.Random.nextInt()" instead.(¨Ûö•HÇRMINORZ
+CODE_SMELL
+U
+java:S2140")Use "java.util.Random.nextInt()" instead.(¨Ûö•HÈRMINORZ
+CODE_SMELL
+U
+java:S2140")Use "java.util.Random.nextInt()" instead.(¨Ûö•HÉRMINORZ
+CODE_SMELL
+U
+java:S2140")Use "java.util.Random.nextInt()" instead.(¨Ûö•HÊRMINORZ
+CODE_SMELL
+U
+java:S2140")Use "java.util.Random.nextInt()" instead.(¨Ûö•HËRMINORZ
+CODE_SMELL
+U
+java:S2140")Use "java.util.Random.nextInt()" instead.(¨Ûö•HÌRMINORZ
+CODE_SMELL
+U
+java:S2140")Use "java.util.Random.nextInt()" instead.(¨Ûö•HÍRMINORZ
+CODE_SMELL
+U
+java:S2140")Use "java.util.Random.nextInt()" instead.(¨Ûö•HÎRMINORZ
+CODE_SMELL
+U
+java:S2140")Use "java.util.Random.nextInt()" instead.(¨Ûö•HÏRMINORZ
+CODE_SMELL
+U
+java:S2140")Use "java.util.Random.nextInt()" instead.(¨Ûö•HÐRMINORZ
+CODE_SMELL
+i	java:S106"9Replace this use of System.out or System.err by a logger.(´‹¹öþÿÿÿÿHÑRMAJORZ
+CODE_SMELL
+…
+java:S2293
+"YReplace the type specification in this constructor call with the diamond operator ("<>").(´Í»¶HÒRMINORZ
+CODE_SMELL
+|
+java:S3973"HUse indentation to denote the code conditionally executed by this "for".(—áÿÃþÿÿÿÿHÔRCRITICALZ
+CODE_SMELL

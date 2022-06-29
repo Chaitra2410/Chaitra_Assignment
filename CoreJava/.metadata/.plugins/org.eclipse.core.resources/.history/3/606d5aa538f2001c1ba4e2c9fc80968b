@@ -1,0 +1,17 @@
+package corejava;
+
+public class BubbleSort {
+
+	public static void main(String[] args) {
+		int a[]= {5,12,14,6,78,19,1,23,26,35,37,7,52,86,42};
+		int b[]=new int[a.length];
+		for(int i=1;i<=a.length-1;i++)
+		{
+			if(a[0]<a[i])
+				continue;
+			b[i]=a[i]
+		}
+
+	}
+
+}

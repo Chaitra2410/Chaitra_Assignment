@@ -1,0 +1,113 @@
+
+j	java:S106‚"9Replace this use of System.out or System.err by a logger.( åÂÜÿÿÿÿÿHÍ
+RMAJORZ
+CODE_SMELL
+e	java:S106‡"9Replace this use of System.out or System.err by a logger.(Ø¥ÒïHÎ
+RMAJORZ
+CODE_SMELL
+x
+java:S2789’"FEnsure this "Optional" could never be null and remove this null-check.(¦ÖÚªøÿÿÿÿ8Ïàò°š0HÏ
+RMAJORZBUG
+e	java:S106È"9Replace this use of System.out or System.err by a logger.(ªÎûİHĞ
+RMAJORZ
+CODE_SMELL
+e	java:S106Š"9Replace this use of System.out or System.err by a logger.(²á«ÚHÑ
+RMAJORZ
+CODE_SMELL
+e	java:S106ã"9Replace this use of System.out or System.err by a logger.(Î›Ô«HÒ
+RMAJORZ
+CODE_SMELL
+j	java:S106†"9Replace this use of System.out or System.err by a logger.(³‹ÂõıÿÿÿÿHÓ
+RMAJORZ
+CODE_SMELL
+e	java:S106ß"9Replace this use of System.out or System.err by a logger.(Ï•ÇüHÔ
+RMAJORZ
+CODE_SMELL
+…
+java:S2293¶"YReplace the type specification in this constructor call with the diamond operator ("<>").(öÃûcHÕ
+RMINORZ
+CODE_SMELL
+d	java:S106¢"9Replace this use of System.out or System.err by a logger.(„‘MH×
+RMAJORZ
+CODE_SMELL
+n
+java:S2209’"5Change this instance-reference to a static reference.(¦ÖÚªøÿÿÿÿ8Ïàò°š0HØ
+RMAJORZ
+CODE_SMELL
+i
+java:S1612Ç"<Replace this lambda with method reference 'Fruit::getColor'.(“Éº¸HÚ
+RMINORZ
+CODE_SMELL
+n
+java:S1612Œ"<Replace this lambda with method reference 'Trader::getName'.(Ü¹Û—ûÿÿÿÿHÜ
+RMINORZ
+CODE_SMELL
+j	java:S106œ"9Replace this use of System.out or System.err by a logger.(ŠŠ“áûÿÿÿÿHŞ
+RMAJORZ
+CODE_SMELL
+j	java:S106Ã"9Replace this use of System.out or System.err by a logger.(¿ØøôùÿÿÿÿHß
+RMAJORZ
+CODE_SMELL
+d	java:S106Ş"9Replace this use of System.out or System.err by a logger.(æßõ&Hà
+RMAJORZ
+CODE_SMELL
+j	java:S106˜"9Replace this use of System.out or System.err by a logger.(ã«ÏüÿÿÿÿHá
+RMAJORZ
+CODE_SMELL
+e	java:S106Î"9Replace this use of System.out or System.err by a logger.(š”éúHâ
+RMAJORZ
+CODE_SMELL
+‹
+java:S2293ö"YReplace the type specification in this constructor call with the diamond operator ("<>").(¤÷Ê‘úÿÿÿÿHã
+RMINORZ
+CODE_SMELL
+e	java:S106Í"9Replace this use of System.out or System.err by a logger.(š¬ËñHå
+RMAJORZ
+CODE_SMELL
+|
+java:S1192é"GDefine a constant instead of duplicating this literal "B'lore" 3 times.(Äñ®üÿÿÿÿHæ
+RCRITICALZ
+CODE_SMELL
+e	java:S106Á"9Replace this use of System.out or System.err by a logger.(ó­¿ãHê
+RMAJORZ
+CODE_SMELL
+t
+java:S1612›"BReplace this lambda with method reference 'Transaction::getValue'.(’ÄİüÿÿÿÿHë
+RMINORZ
+CODE_SMELL
+v
+java:S1192·"FDefine a constant instead of duplicating this literal "apple" 3 times.(½î¢ÊHí
+RCRITICALZ
+CODE_SMELL
+†
+java:S2293Ğ"YReplace the type specification in this constructor call with the diamond operator ("<>").(ü¨İÛHñ
+RMINORZ
+CODE_SMELL
+e	java:S106×"9Replace this use of System.out or System.err by a logger.(øÓŸˆHó
+RMAJORZ
+CODE_SMELL
+e	java:S106ä"9Replace this use of System.out or System.err by a logger.(Ø¼¢ƒHô
+RMAJORZ
+CODE_SMELL
+‹
+java:S2293è"YReplace the type specification in this constructor call with the diamond operator ("<>").(·ó‡úÿÿÿÿHõ
+RMINORZ
+CODE_SMELL
+e	java:S106É"9Replace this use of System.out or System.err by a logger.(‡¤Ÿ”H÷
+RMAJORZ
+CODE_SMELL
+e	java:S106Ö"9Replace this use of System.out or System.err by a logger.(“êÅƒHø
+RMAJORZ
+CODE_SMELL
+j	java:S106"9Replace this use of System.out or System.err by a logger.(Ã·ÃùÿÿÿÿHù
+RMAJORZ
+CODE_SMELL
+e	java:S106"9Replace this use of System.out or System.err by a logger.(œ’éÅHú
+RMAJORZ
+CODE_SMELL
+e	java:S106”"9Replace this use of System.out or System.err by a logger.(ÿİŒùHû
+RMAJORZ
+CODE_SMELL
+j	java:S106Ÿ"9Replace this use of System.out or System.err by a logger.(õÛÑ§ÿÿÿÿÿHü
+RMAJORZ
+CODE_SMELL

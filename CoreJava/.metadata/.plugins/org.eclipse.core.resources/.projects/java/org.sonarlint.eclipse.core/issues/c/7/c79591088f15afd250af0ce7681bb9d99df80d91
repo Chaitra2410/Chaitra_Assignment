@@ -1,0 +1,17 @@
+
+[
+java:S1197"*Move the array designators [] to the type.(¹òÆ‹þÿÿÿÿHªRMINORZ
+CODE_SMELL
+i	java:S106"9Replace this use of System.out or System.err by a logger.(µüÀ¨ýÿÿÿÿH§RMAJORZ
+CODE_SMELL
+w
+java:S3973"HUse indentation to denote the code conditionally executed by this "for".(­’† H¥RCRITICALZ
+CODE_SMELL
+­
+java:S2681"|This line will not be executed in a loop; only the first line of this 2-line block will be. The rest will execute only once.(ªÓ¼áþÿÿÿÿH¤RMAJORZ
+CODE_SMELL
+\
+java:S1128"0Remove this unused import 'java.util.ArrayList'.(÷‰îƒH¨RMINORZ
+CODE_SMELL
+i	java:S106"9Replace this use of System.out or System.err by a logger.(ªÓ¼áþÿÿÿÿH£RMAJORZ
+CODE_SMELL

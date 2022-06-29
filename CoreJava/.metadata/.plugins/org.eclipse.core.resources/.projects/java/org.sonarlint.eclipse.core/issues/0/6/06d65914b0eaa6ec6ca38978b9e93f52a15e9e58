@@ -1,0 +1,6 @@
+
+p	java:S106	"9Replace this use of System.out or System.err by a logger.(Ε­Λέϊÿÿÿÿ8‰ιλ™0HμRMAJORZ
+CODE_SMELL
+’
+java:S1149"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(®ί£•8‰ιλ™0HνRMAJORZ
+CODE_SMELL
